@@ -1,7 +1,7 @@
 # Trivium-Cipher
 
 HOW TO RUN:
-Save all the files ina  folder and click on index.html
+Save all the files in a  folder and click on index.html
 
 This is an implementation of the trivium cipher for encryption and decryption.
 Auto generation of key and iv have been provided only for ease and testing purposes.
